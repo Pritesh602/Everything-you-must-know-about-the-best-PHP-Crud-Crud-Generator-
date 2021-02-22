@@ -1,4 +1,6 @@
-# Everything-you-must-know-about-the-best-PHP-Crud-Crud-Generator- If you’ve ever operated a database, you’ve probably worked with CRUD operations. CRUD operations are usually related to SQL. Since SQL is a pretty pre-eminent name in the development community, it’s essential for developers to know how CRUD operations run. So, this article is intended to draw you up to speed (if you’re not already) on CRUD operations and how to choose the best crud framework.
+# Everything-you-must-know-about-the-best-PHP-Crud-Crud-Generator
+
+If you’ve ever operated a database, you’ve probably worked with CRUD operations. CRUD operations are usually related to SQL. Since SQL is a pretty pre-eminent name in the development community, it’s essential for developers to know how CRUD operations run. So, this article is intended to draw you up to speed (if you’re not already) on CRUD operations and how to choose the best crud framework.
 
 The Definition of CRUD
 
